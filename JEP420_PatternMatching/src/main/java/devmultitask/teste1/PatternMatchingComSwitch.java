@@ -15,9 +15,9 @@ public class PatternMatchingComSwitch {
 	            break;
 	        case Retangulo r:
 	            if (r.isQuadrado()) {
-	                System.out.println("Retangulo irregular");
-	            } else {
 	            	System.out.println("Quadrado");
+	            } else {
+	            	System.out.println("Retangulo irregular");
 	            }
 	            break;
 	        default:
