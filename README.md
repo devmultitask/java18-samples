@@ -11,3 +11,9 @@ https://openjdk.java.net/projects/jdk/18/
 408: [Simple Web Server](JEP408_SimpleWebServer/)
 
 420: [Pattern Matching for switch](JEP420_PatternMatching/)
+
+# YouTube
+
+* [Java 18 - jwebserver é melhor que Nginx ? (1/3)](https://youtu.be/HD65Oe4d72U)
+* [UTF-8 como padrão no Java 18 - melhorou ou piorou ? (2/3)](https://youtu.be/gGuNzESU8Iw)
+* [Para que serve o Pattern Matching do Java 18 ? (3/3)](https://youtu.be/1rBej-mYIMQ)
